@@ -20,4 +20,4 @@ jobs:
 
       # 9. 'uses' executes a pre-built 'Action'. This is the key to reusable automation.
       - name: Checkout repository code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 
